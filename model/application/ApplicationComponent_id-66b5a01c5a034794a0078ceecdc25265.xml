@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity and Demand Planner"
+    id="id-66b5a01c5a034794a0078ceecdc25265"
+    documentation="Capacity and Demand Planner can model different demand and capacity scenarios to inform decision making. This provides visibility on potential mismatches e.g. a surge of demand due to a new campaign and provides critical information to provision capacity accordingly."/>

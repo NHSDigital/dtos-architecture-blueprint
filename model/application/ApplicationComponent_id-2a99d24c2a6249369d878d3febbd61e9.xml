@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cohorting as a Service"
+    id="id-2a99d24c2a6249369d878d3febbd61e9"
+    documentation="Cohorting as a Service manages cohort definitions and informs Cohort Manager when a participant changes in their eligibility status"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BI and Data Analysis"
+    id="id-fd78266ba4c04812b3d1e37632d50f18"
+    documentation="BI and Data Analysis facilitates data-driven decisions to optimise screening pathways. It enables a variety of users, ranging from programme managers, to quality assurance and researchers to interrogate screening data. By joining together different datasets, it allows users to segment participants according to different attributes e.g. clinical risk factors or participant behaviour and to review provider performance at different levels of granularity. "/>

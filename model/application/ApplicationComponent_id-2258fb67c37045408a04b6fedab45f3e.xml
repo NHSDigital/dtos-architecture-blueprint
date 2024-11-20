@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appointment Booker"
+    id="id-2258fb67c37045408a04b6fedab45f3e"
+    documentation="Appointment Booker supports the management of appointments from both the participant and provider perspective. It allows both participants and providers to create, amend and cancel appointments. Providers can manage available slots based on real-time capacity and can ensure that invitations and reminders are triggered at appropriate points in the screening pathway."/>

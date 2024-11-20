@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cohort Manager"
+    id="id-53a89e9de2a04ae59887a6a14ece9b1b"
+    documentation="Cohort Manager is concerned with the definition of due participants. Is recieves the eligible cohort from Cohorting As a Service and allows the management of due participants, both in terms of data quality and editing the cohort. It enables the management of external referrals into the screening programme (self or GP)."/>

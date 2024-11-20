@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communications Manager"
+    id="id-8c8671c6ed1e4f20a00957315c6a9ffd"
+    documentation="Communications Manager acts as a common way of communcating with participants by leveraging NHS Notify. It enables personalised communication, with differerent templates applied according to the specific scenario and accounts for participant communication preferences. "/>

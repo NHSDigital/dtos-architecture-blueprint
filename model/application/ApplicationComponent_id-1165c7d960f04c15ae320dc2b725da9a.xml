@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant Support"
+    id="id-1165c7d960f04c15ae320dc2b725da9a"
+    documentation="Participant Support allows the efficient handling of inbound queries from participants about the screening pathway and will primarily be used by participant support staff e.g. call centre staff."/>

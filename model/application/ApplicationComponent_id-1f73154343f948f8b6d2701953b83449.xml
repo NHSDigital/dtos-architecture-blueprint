@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity Manager"
+    id="id-1f73154343f948f8b6d2701953b83449"
+    documentation="Capacity Manager provides a centralised way of understanding and managing capacity across screening pathways. Providers are able to provide and amend their local capacity, with resulting available 'slots' feeding into the allocation process."/>
