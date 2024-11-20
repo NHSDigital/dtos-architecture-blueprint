@@ -1,0 +1,9 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S3. Screen participant"
+    id="id-351a26f7c59a4c1ab08991df4e0adb5a"
+    documentation="This stage consists of the clinical task of screening. Depending on the pathway in question, this might include recording clinic attendance, logistics around home testing kits, assessing images/samples and recording findings and ultimate diagnoses. In the scenario that the appropriate next step is for a further clinical investigation, participants will cycle back into the 'Invite and book' stage. This stage concludes with a diagnosis which denotes whether the conditoin being screened for has been detected, or not.">
+  <properties
+      key="Outcome"
+      value="Screening participants in a high quality and efficient manner"/>
+</archimate:ValueStream>

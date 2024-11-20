@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S4. Manage outcome"
+    id="id-17f9911efaef4201bdd934c57117a474"
+    documentation="This stage consists of using the diagnosis to determine the screening outcome. This is the end of the screening pathway and focuses on directing the participant to the appropriate screening outcome. This might be discharge to their existing screening pathway, discharge to a different screening pathway e.g. different interval or transfer to a treatment pathway. This screening outcome will be communicated to the participant, as well as relevant healthcare professionals e.g. GP."/>

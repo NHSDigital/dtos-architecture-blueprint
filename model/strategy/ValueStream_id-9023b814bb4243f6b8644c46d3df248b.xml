@@ -1,0 +1,9 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S2. Invite and book participants"
+    id="id-9023b814bb4243f6b8644c46d3df248b"
+    documentation="This stage consists of managing participants who are both eligible and due for screening. This definition of 'due' will vary from pathway to pathway (e.g. factors such as pregnancy in cervical screening) and will result in a participant being booked onto a screening pathway. This may result in sending out testing kits or accepting or modifying an appointment slot. It is necessary therefore to provide sufficient support and advice to the participant such that they understand the screening process and are suitably informed prior to the screening test">
+  <properties
+      key="Outcome"
+      value="All of the people who are due to be screened have been booked onto a screening pathway"/>
+</archimate:ValueStream>
