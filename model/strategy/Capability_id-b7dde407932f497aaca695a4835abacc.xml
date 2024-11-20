@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C6.11 Inbound Communications"
-    id="id-b7dde407932f497aaca695a4835abacc"/>
+    id="id-b7dde407932f497aaca695a4835abacc"
+    documentation=" Provide service for participants to request additional information and support"/>

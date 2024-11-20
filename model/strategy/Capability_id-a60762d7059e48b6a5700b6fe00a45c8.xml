@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C6.5 Participant Appointment Administration"
-    id="id-a60762d7059e48b6a5700b6fe00a45c8"/>
+    id="id-a60762d7059e48b6a5700b6fe00a45c8"
+    documentation="  Ability for a participant to review and change their upcoming appointments"/>

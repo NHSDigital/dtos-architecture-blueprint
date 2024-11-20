@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C12.2 Communicate to GP"
-    id="id-0e4e24f115fe4f2e9e3b943562328c07"/>
+    id="id-0e4e24f115fe4f2e9e3b943562328c07"
+    documentation=" Send communication to the GP about the outcome "/>

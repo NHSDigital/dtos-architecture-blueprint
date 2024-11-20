@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C13.2 Pathway view"
-    id="id-faeb14148b8045caac28786a7bb30f2e"/>
+    id="id-faeb14148b8045caac28786a7bb30f2e"
+    documentation=" Single dashboard view of participant flow within a screening pathway"/>

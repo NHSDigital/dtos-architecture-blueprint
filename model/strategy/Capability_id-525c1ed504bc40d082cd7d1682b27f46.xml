@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C3. Forecast capacity and demand"
-    id="id-525c1ed504bc40d082cd7d1682b27f46"/>
+    id="id-525c1ed504bc40d082cd7d1682b27f46"
+    documentation="The ability to:&#xA;- forecast demand at an aggregate level, accounting for different variables e.g. marketing campaigns or adjustments to screening pathways&#xA;- forecast capacity at an aggregate level e.g. number of participants that can be seen at a particular screening unit per month&#xA;&#xA;to ensure alignment between demand and capacity."/>

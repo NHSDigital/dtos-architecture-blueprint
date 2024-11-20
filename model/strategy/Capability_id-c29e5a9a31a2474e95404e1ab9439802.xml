@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C8.3 Kit fulfilment"
-    id="id-c29e5a9a31a2474e95404e1ab9439802"/>
+    id="id-c29e5a9a31a2474e95404e1ab9439802"
+    documentation=" Dispatch sample kits as required for participants."/>

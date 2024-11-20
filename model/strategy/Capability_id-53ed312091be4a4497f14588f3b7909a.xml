@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C1.1 Transaction history mining"
-    id="id-53ed312091be4a4497f14588f3b7909a"/>
+    id="id-53ed312091be4a4497f14588f3b7909a"
+    documentation=" Analyse participant interactions with the screening process to improve pathway efficiency."/>

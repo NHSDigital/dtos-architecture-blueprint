@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C5.5 Appointment choice"
-    id="id-872368f6a000468f993dc1c7cbde1660"/>
+    id="id-872368f6a000468f993dc1c7cbde1660"
+    documentation=" Present a set of appointment options to the participant "/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C6. Engage participants"
-    id="id-846e517d601842beb3c2757e536cfb1f"/>
+    id="id-846e517d601842beb3c2757e536cfb1f"
+    documentation="The ability to engage with the participant once an invite has gone out to ensure they have the relevant information to promote screening uptake. The participant may choose to accept, decline or modify that booking. This communication would be bi-directional and could be via various channels. Examples include capturing accessibility requirements to ensure appropriate slot matching and reminders. This capability would also allow providers to reschedule slots e.g. in case of unanticipated staff absence."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C11. Determine outcome"
-    id="id-b5f45db03f2149478e84ca867f0f0da9"/>
+    id="id-b5f45db03f2149478e84ca867f0f0da9"
+    documentation="The ability to use the participant's diagnosis to inform the most appropriate screening outcome. This is one of: remain on current screening pathway, join a different screening pathway e.g. different interval or transfer to a treatment pathway"/>

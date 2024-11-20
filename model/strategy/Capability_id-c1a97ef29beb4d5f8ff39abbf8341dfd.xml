@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C3.5 Forecast capacity requirements"
-    id="id-c1a97ef29beb4d5f8ff39abbf8341dfd"/>
+    id="id-c1a97ef29beb4d5f8ff39abbf8341dfd"
+    documentation=" Project resource needs based on expected demand."/>

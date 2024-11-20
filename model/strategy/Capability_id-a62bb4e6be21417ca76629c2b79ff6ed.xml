@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C7.3 Obtain informed consent"
-    id="id-a62bb4e6be21417ca76629c2b79ff6ed"/>
+    id="id-a62bb4e6be21417ca76629c2b79ff6ed"
+    documentation=" Collect participant consent for screening actions."/>

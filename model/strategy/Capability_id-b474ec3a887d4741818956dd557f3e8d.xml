@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C6.1 Access to personal dashboard"
-    id="id-b474ec3a887d4741818956dd557f3e8d"/>
+    id="id-b474ec3a887d4741818956dd557f3e8d"
+    documentation=" Provide participants with a centralised view of their screening journey."/>

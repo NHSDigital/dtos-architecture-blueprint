@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C4.5 Data completeness checks"
-    id="id-ce2a98d9eaab451497fabe0984df2917"/>
+    id="id-ce2a98d9eaab451497fabe0984df2917"
+    documentation=" Validate accuracy of participant data and completeness of screening records."/>

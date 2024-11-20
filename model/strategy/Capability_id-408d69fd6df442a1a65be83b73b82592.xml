@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C11.1 External referral integration"
-    id="id-408d69fd6df442a1a65be83b73b82592"/>
+    id="id-408d69fd6df442a1a65be83b73b82592"
+    documentation=" Transimission of necessary information to support onward referral. Including any necessary communication "/>

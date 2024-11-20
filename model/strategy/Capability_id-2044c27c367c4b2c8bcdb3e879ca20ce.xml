@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C6.7 Appointment reminder"
-    id="id-2044c27c367c4b2c8bcdb3e879ca20ce"/>
+    id="id-2044c27c367c4b2c8bcdb3e879ca20ce"
+    documentation=" Send reminders before scheduled appointments."/>

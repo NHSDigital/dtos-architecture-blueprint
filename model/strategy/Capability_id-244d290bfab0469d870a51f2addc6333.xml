@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C3.3 Set modelling parameters"
-    id="id-244d290bfab0469d870a51f2addc6333"/>
+    id="id-244d290bfab0469d870a51f2addc6333"
+    documentation=" Define parameters for planning, including geographic and temporal scales."/>

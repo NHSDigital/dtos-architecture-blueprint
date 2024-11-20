@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C9.2 Manage electronic interpretation (AI)"
-    id="id-18994dd9c857407dbcbe9207efa7bd40"/>
+    id="id-18994dd9c857407dbcbe9207efa7bd40"
+    documentation=" Leverage AI for sample interpretation where applicable."/>

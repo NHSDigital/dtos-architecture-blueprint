@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C15. Investigate incidents"
-    id="id-c8741ea90e624e498d3a8d824e48198d"/>
+    id="id-c8741ea90e624e498d3a8d824e48198d"
+    documentation="The ability to carry out a formal investigation into an adverse outcome or complaint. This will include carrying out investigations in accordance with the published processes managing safety incidents in NHS screening pathways&#xA;- Triaging suspected screening incidents and identifying screening safety incidents and where a heightened response is required classifying these as serious incidents_&#xA;- Executing local, regional and national responses as specified and meeting the prescribed service level of 5 days to complete incident response and action required_"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C10. Determine diagnosis"
-    id="id-bf1cd58f246d4e7ab1a4a6a564e1ba57"/>
+    id="id-bf1cd58f246d4e7ab1a4a6a564e1ba57"
+    documentation="The ability to determine a diagnosis on the basis of the findings from the clinical investigations. This diagnosis will confirm whether the condition being screened for has been detected, or not."/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C4.3 Self referral"
-    id="id-957248ba950b46ccb7820dc0d322ca62"/>
+    id="id-957248ba950b46ccb7820dc0d322ca62"
+    documentation=" Accept and validate a self referral request"/>

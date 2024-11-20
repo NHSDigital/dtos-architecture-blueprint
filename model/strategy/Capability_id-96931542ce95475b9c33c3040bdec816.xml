@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C8. Administer clinical investigation"
-    id="id-96931542ce95475b9c33c3040bdec816"/>
+    id="id-96931542ce95475b9c33c3040bdec816"
+    documentation="The ability to adminster the clinical investigation, including administration e.g. matching a sample to a participant, performing the test and documenting the process.&#xA;&#xA;The ability to manage the underlying logistics to facilitate the clinical investigation e.g. ensuring kits are tracked and sent to the correct labs or ensuring that the mammogram machine is appropriately calibrated."/>

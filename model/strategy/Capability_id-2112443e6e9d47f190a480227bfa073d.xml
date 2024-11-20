@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C6.8 Appointments missed"
-    id="id-2112443e6e9d47f190a480227bfa073d"/>
+    id="id-2112443e6e9d47f190a480227bfa073d"
+    documentation=" Follow up on missed appointments to reschedule as needed."/>

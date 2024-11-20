@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C12. Communicate outcome"
-    id="id-d0a03bc6d96444a3a545359aabf544c1"/>
+    id="id-d0a03bc6d96444a3a545359aabf544c1"
+    documentation="The ability to communicate the screening outcome with the participant in the most appropriate manner.  The type of outcome will inform the most appropriate form of communication. The screening outcome will also be communicated tothe participant's GP."/>
