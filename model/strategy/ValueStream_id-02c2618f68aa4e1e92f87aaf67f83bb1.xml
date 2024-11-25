@@ -1,4 +1,9 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="S5. Monitor pathway"
-    id="id-02c2618f68aa4e1e92f87aaf67f83bb1"/>
+    id="id-02c2618f68aa4e1e92f87aaf67f83bb1"
+    documentation="This stage is focused on reviewing the efficacy and efficiency of the overall screening pathway. This includes monitoring and understanding performance, identifying and managing clinical safety issues, investigating incidents as well as faciiltiating research.&#xA;">
+  <properties
+      key="Outcome"
+      value="Data that supports the delivery of high quality screening pathways and continuous improvement"/>
+</archimate:ValueStream>

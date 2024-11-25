@@ -1,4 +1,9 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="S1. Plan pathway"
-    id="id-65fd7ba7bfb0451f9cb7a0d90838677d"/>
+    id="id-65fd7ba7bfb0451f9cb7a0d90838677d"
+    documentation="This stage consists of the work required to plan high quality and efficient screening pathways. This might be the creation of a new screening pathway or adjustments to existing pathways e.g. changes to eligibility criteria to increase cost-effectiveness. To plan screening pathways effectively, it must be possible to forecast demand and capacity at an aggregate level and balance the two. Tools such as targeted campaigns can be used to deliver information on screening pathways to maximise coverage and uptake.">
+  <properties
+      key="Outcome"
+      value="Maximise coverage and uptake, ensuring the required resources to support the demand created."/>
+</archimate:ValueStream>
