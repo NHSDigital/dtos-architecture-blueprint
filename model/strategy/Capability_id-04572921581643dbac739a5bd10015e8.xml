@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C7. Prepare participant"
     id="id-04572921581643dbac739a5bd10015e8"
-    documentation="The ability to ensure all necessary steps have been taken to allow a participant to have the clinical investigation. This would include tasks such as identity verification, recording attendance, validating pre-screening questionnaires and consent forms along with provision for special requirements."/>
+    documentation="The ability to ensure all necessary steps have been taken to allow a participant to have the clinical investigation. This would include tasks such as identity verification, recording attendance, validating pre-screening questionnaires and consent forms along with provision for special requirements.">
+  <properties
+      key="Input"
+      value="A single participant attends clinic"/>
+  <properties
+      key="Output"
+      value="The participant is ready and sent for the clinical investigation"/>
+</archimate:Capability>

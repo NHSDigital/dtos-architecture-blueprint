@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C4. Define due participants"
     id="id-fbe7074c03c04d97be5aaf37d1372988"
-    documentation="The ability to manage the list of participants who are due for screening. This might include handling data quality issues or the removal/addition of participants e.g. self-referral."/>
+    documentation="The ability to manage the list of participants who are due for screening. This might include handling data quality issues or the removal/addition of participants e.g. self-referral.">
+  <properties
+      key="Input"
+      value="A starting list of participants that are both eligible and due"/>
+  <properties
+      key="Ouput"
+      value="A final list that could include additions and removals from the original list due to a variety of reasons"/>
+</archimate:Capability>

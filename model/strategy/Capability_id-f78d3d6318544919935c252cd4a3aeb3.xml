@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C9. Determine finding(s)"
     id="id-f78d3d6318544919935c252cd4a3aeb3"
-    documentation="The ability to interpret the image/sample and determine a clinical finding. The finding will either result in a diagnosis or the need for further clinical investigations."/>
+    documentation="The ability to interpret the image/sample and determine a clinical finding. The finding will either result in a diagnosis or the need for further clinical investigations.">
+  <properties
+      key="Input"
+      value="An image or sample for assessment"/>
+  <properties
+      key="Output"
+      value="Determination and recording of a finding"/>
+</archimate:Capability>

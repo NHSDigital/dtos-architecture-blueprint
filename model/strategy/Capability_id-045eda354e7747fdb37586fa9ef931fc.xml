@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C5. Invite and book participants"
     id="id-045eda354e7747fdb37586fa9ef931fc"
-    documentation="The ability to invite a participant onto a screening pathway via an appropriate method of communication based on a set of participant preferences and to provisionally allocate them to an appropriate slot."/>
+    documentation="The ability to invite a participant onto a screening pathway via an appropriate method of communication based on a set of participant preferences and to provisionally allocate them to an appropriate slot.">
+  <properties
+      key="Input"
+      value="A final list of people to be booked onto a specific screening pathway"/>
+  <properties
+      key="Output"
+      value="A list of confirmed participants due to take part in a particular screening pathway"/>
+</archimate:Capability>
