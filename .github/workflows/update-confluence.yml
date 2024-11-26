@@ -1,0 +1,40 @@
+name: Update Confluence Pages
+
+on:
+  push:
+    branches:
+      - main  # Adjust this as needed
+
+jobs:
+  update-confluence:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the main repository (this repository)
+      - name: Checkout Main Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Clone the source repository
+      - name: Clone Source Repository
+        env:
+          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}  # Token for the source repo
+        run: |
+          git clone https://x-access-token:${SOURCE_REPO_TOKEN}@github.com/NHSDigital/dtos-capability-generator.git source-repo
+
+          echo "Cloned source repository successfully"
+
+      # Step 3: Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Use the Node.js version compatible with your script
+
+      # Step 4: Install Dependencies
+      - name: Install Dependencies
+        run: npm install
+
+      # Step 5: Run the Script
+      - name: Run Main Script
+        env:
+          CONFLUENCE_PAT: ${{ secrets.CONFLUENCE_PAT }}
+        run: node main.js $CONFLUENCE_PAT ./source-repo
