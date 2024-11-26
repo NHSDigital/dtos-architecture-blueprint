@@ -14,14 +14,14 @@ jobs:
       - name: Checkout Main Repository
         uses: actions/checkout@v4
 
-      # Step 2: Clone the source repository
+      # Step 2: Clone the source repository into a specific directory
       - name: Clone Source Repository
         env:
-          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}  # Token for the source repo
+          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
         run: |
-          git clone https://x-access-token:${SOURCE_REPO_TOKEN}@github.com/NHSDigital/dtos-capability-generator.git source-repo
-
-          echo "Cloned source repository successfully"
+          git clone https://x-access-token:${SOURCE_REPO_TOKEN}@github.com/owner/source-repo.git source-repo
+          cd source-repo
+          echo "Cloned source repository into 'source-repo' directory."
 
       # Step 3: Set up Node.js
       - name: Set up Node.js
@@ -31,10 +31,12 @@ jobs:
 
       # Step 4: Install Dependencies
       - name: Install Dependencies
+        working-directory: ./source-repo
         run: npm install
 
       # Step 5: Run the Script
       - name: Run Main Script
         env:
           CONFLUENCE_PAT: ${{ secrets.CONFLUENCE_PAT }}
-        run: node main.js $CONFLUENCE_PAT ./source-repo
+        working-directory: ./source-repo
+        run: node main.js $CONFLUENCE_PAT ./ 
