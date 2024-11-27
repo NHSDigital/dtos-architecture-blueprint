@@ -29,12 +29,18 @@ jobs:
         with:
           node-version: '18' # Use the Node.js version compatible with your script
 
+      - name: Debug Base Repository Path
+        run: ls -la ./  # List contents of the primary repository
+      - name: Debug Source Repository Path
+        run: ls -la ./source-repo  # List contents of the cloned repository
       # Step 4: Install Dependencies
       - name: Install Dependencies
+        working-directory: ./source-repo
         run: npm install
 
       # Step 5: Run the Script
       - name: Run Main Script
         env:
           CONFLUENCE_PAT: ${{ secrets.CONFLUENCE_PAT }}
-        run: node main.js $CONFLUENCE_PAT ./
+        working-directory: ./source-repo
+        run: echo "yes" | node main.js $CONFLUENCE_PAT ../model
