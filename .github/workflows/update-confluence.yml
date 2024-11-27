@@ -3,7 +3,7 @@ name: Update Confluence Pages
 on:
   push:
     branches:
-      - main  # Adjust this as needed
+      - disabled  # Adjust this as needed
 
 jobs:
   update-confluence:
