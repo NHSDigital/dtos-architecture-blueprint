@@ -15,12 +15,12 @@ jobs:
         uses: actions/checkout@v4
 
       # Step 2: Clone the source repository
-      - name: Clone Source Repository
+      - name: Clone Capability Generator Source Repository
         env:
           SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}  # Token for the source repo
         run: |
-          git clone https://x-access-token:${SOURCE_REPO_TOKEN}@github.com/NHSDigital/dtos-capability-generator.git source-repo
-          cd source-repo
+          git clone https://x-access-token:${SOURCE_REPO_TOKEN}@github.com/NHSDigital/dtos-capability-generator.git capability-repo
+          cd capability-repo
           echo "Cloned source repository successfully"
 
       # Step 3: Set up Node.js
@@ -32,15 +32,27 @@ jobs:
       - name: Debug Base Repository Path
         run: ls -la ./  # List contents of the primary repository
       - name: Debug Source Repository Path
-        run: ls -la ./source-repo  # List contents of the cloned repository
+        run: ls -la ./capability-repo  # List contents of the cloned repository
       # Step 4: Install Dependencies
       - name: Install Dependencies
-        working-directory: ./source-repo
+        working-directory: ./capability-repo
         run: npm install
+      
+      # Step 5: Clone the structurizr folder into capability generator
+      - name: Clone Structurizr Generator Source Repository
+        env:
+          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}  # Token for the source repo
+        run: |
+          git clone https://x-access-token:${SOURCE_REPO_TOKEN}@github.com/NHSDigital/dtos-solution-architecture.git capability-repo/dtos-solution-architecture
+          echo "Cloned source repository successfully"
+      
+      - name: Debug Source Repository Path
+        run: ls -la ./capability-repo/dtos-solution-architecture  # List contents of the cloned repository
+
 
       # Step 5: Run the Script
       - name: Run Main Script
         env:
           CONFLUENCE_PAT: ${{ secrets.CONFLUENCE_PAT }}
-        working-directory: ./source-repo
+        working-directory: ./capability-repo
         run: echo "yes" | node main.js $CONFLUENCE_PAT ../model
