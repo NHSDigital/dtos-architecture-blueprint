@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Appoinment Allocator"
+    name="Appointment Allocator"
     id="id-cc7284edc50145169c7819a244dab993"
     documentation="Appointment Allocator is a pathway agnostic allocation engine. It provides a set of allocation algorithms and uses participant preferences and needs e.g. accessibility criteria to optimally allocate individuals to 'slots'."/>
