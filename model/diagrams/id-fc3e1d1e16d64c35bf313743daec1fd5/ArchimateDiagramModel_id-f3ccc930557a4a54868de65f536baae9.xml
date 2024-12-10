@@ -630,30 +630,6 @@
         href="ApplicationComponent_id-2d499d85a4474f6aa1b6efa0e433927a.xml#id-2d499d85a4474f6aa1b6efa0e433927a"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-fb0b2341fd3a4047b2ebc9e92f78b5cb"
-      textAlignment="1"
-      fillColor="#00fa92"
-      content="Existing">
-    <bounds
-        x="588"
-        y="756"
-        width="73"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-24f5d73e11ed47039c8e58ae4aec8f62"
-      textAlignment="1"
-      fillColor="#00fa92"
-      content="Existing">
-    <bounds
-        x="720"
-        y="732"
-        width="85"
-        height="25"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1b3da6170aed46609071abb839aeef99"
       targetConnections="id-d62d8af38a834cdfb072c8a588d91f83">
