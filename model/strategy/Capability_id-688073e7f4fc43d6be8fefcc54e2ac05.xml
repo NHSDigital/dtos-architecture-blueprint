@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C14. Support research"
     id="id-688073e7f4fc43d6be8fefcc54e2ac05"
-    documentation="The ability to provide access to a range of statistical publications and datasets covering the performance and outcomes of a screening pathway. This will include external publication of data for research organisations and health service bodies for analytical and research purposes. Providing access to data in different forms with a focus on external access from stakeholders. This will also ensure that participants who are included in screening research trials, will still be captured in the wider screening dataset."/>
+    documentation="The ability to provide access to a range of statistical publications and datasets covering the performance and outcomes of a screening pathway. This will include external publication of data for research organisations and health service bodies for analytical and research purposes. Providing access to data in different forms with a focus on external access from stakeholders. This will also ensure that participants who are included in screening research trials, will still be captured in the wider screening dataset.">
+  <properties
+      key="Input"
+      value="All screening data"/>
+  <properties
+      key="Output"
+      value="Clinical research to inform improvements to pathway design"/>
+</archimate:Capability>

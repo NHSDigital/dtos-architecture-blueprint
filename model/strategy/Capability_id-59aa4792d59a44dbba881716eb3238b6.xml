@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C1. Design/optimise pathway"
     id="id-59aa4792d59a44dbba881716eb3238b6"
-    documentation="Analysis of participant usage and screening pathway performance "/>
+    documentation="Analysis of participant usage and screening pathway performance ">
+  <properties
+      key="Input"
+      value="Analysis of participant usage and screening pathway performance "/>
+  <properties
+      key="Output"
+      value="Singularly defined screening pathways describing the full end to end flow for a specific group of participants"/>
+</archimate:Capability>

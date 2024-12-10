@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C13. Track Performance"
     id="id-7d679d49dd104a20a46f5410f8f72508"
-    documentation="The ability to interrogate data to understand key factors around performance. This includes surfacing core metrics necessary for statutory reporting e.g. coverage and uptake, as well as tracking performance factors e.g. waiting times and outcomes e.g. cancer detection rate. This will support monitoring of individual service providers to identify (and indeed self-identify) opportunities to improve day-to-day operations and ensure clinical safety. This will support decisions around service provider payment."/>
+    documentation="The ability to interrogate data to understand key factors around performance. This includes surfacing core metrics necessary for statutory reporting e.g. coverage and uptake, as well as tracking performance factors e.g. waiting times and outcomes e.g. cancer detection rate. This will support monitoring of individual service providers to identify (and indeed self-identify) opportunities to improve day-to-day operations and ensure clinical safety. This will support decisions around service provider payment.">
+  <properties
+      key="Input"
+      value="Set of baseline KPIs"/>
+  <properties
+      key="Output"
+      value="Tracking of KPI performance and continous improvement of the service"/>
+</archimate:Capability>
