@@ -99,6 +99,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8ba04480cdb64e08b767c4fefd462476"
+        lineColor="#941100"
         source="id-e1a9051e6364426ab93352baeae62801"
         target="id-c83de7b3189549e1bdaf97e6d4de4ec9">
       <bendpoints
@@ -117,6 +118,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e087933c52cb4e39bc920bbb9d9f615f"
+        lineColor="#0096ff"
         source="id-e1a9051e6364426ab93352baeae62801"
         target="id-0d237d6acde84c8ebdbcad3401e4de22">
       <archimateRelationship
@@ -157,13 +159,13 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4f88a370c2b044feb3634ab48a333094"
+        lineColor="#941100"
         source="id-005d1a6b205d42ee887f531c7e3b405c"
         target="id-c83de7b3189549e1bdaf97e6d4de4ec9">
       <bendpoints
           startX="-36"
-          startY="-219"
-          endX="208"
-          endY="12"/>
+          startY="-243"
+          endX="208"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-f4e46c72fc224100a101f90f489d9d6e.xml#id-f4e46c72fc224100a101f90f489d9d6e"/>
@@ -171,8 +173,19 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d1d62278d9a14f82ae1c4ceb6ecdd589"
+        lineColor="#0096ff"
         source="id-005d1a6b205d42ee887f531c7e3b405c"
         target="id-0d237d6acde84c8ebdbcad3401e4de22">
+      <bendpoints
+          startX="-48"
+          startY="-183"
+          endX="335"
+          endY="183"/>
+      <bendpoints
+          startX="-48"
+          startY="-363"
+          endX="335"
+          endY="3"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-0deda1ad248e48e3a7b0d7558a0919c3.xml#id-0deda1ad248e48e3a7b0d7558a0919c3"/>
@@ -247,13 +260,9 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0b1321f33e5a424e8fa00f2e739edb23"
+        lineColor="#0096ff"
         source="id-eb6e64c5ba8442b5bc7b642a0c61f81a"
         target="id-0d237d6acde84c8ebdbcad3401e4de22">
-      <bendpoints
-          startX="648"
-          startY="-27"
-          endX="-48"
-          endY="-399"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-e8c8ec58b61e40658ab4fb4fd2bc70ca.xml#id-e8c8ec58b61e40658ab4fb4fd2bc70ca"/>
@@ -571,7 +580,7 @@
           href="AssociationRelationship_id-e46daece1d414df592281bc021963d6b.xml#id-e46daece1d414df592281bc021963d6b"/>
     </sourceConnections>
     <bounds
-        x="936"
+        x="984"
         y="60"
         width="120"
         height="55"/>
@@ -892,8 +901,8 @@
       id="id-0d237d6acde84c8ebdbcad3401e4de22"
       targetConnections="id-404a29b7f36940799e0b3cc7148a9d96 id-5a23fd34a7534c879e8df14b5f122b2c id-d1d62278d9a14f82ae1c4ceb6ecdd589 id-e087933c52cb4e39bc920bbb9d9f615f id-0b1321f33e5a424e8fa00f2e739edb23">
     <bounds
-        x="1320"
-        y="732"
+        x="565"
+        y="6"
         width="120"
         height="55"/>
     <archimateElement
@@ -913,8 +922,8 @@
           href="AssociationRelationship_id-d0a8a5a1f6534b11b6f163bb0e0a092f.xml#id-d0a8a5a1f6534b11b6f163bb0e0a092f"/>
     </sourceConnections>
     <bounds
-        x="839"
-        y="-6"
+        x="780"
+        y="-48"
         width="120"
         height="55"/>
     <archimateElement
@@ -934,8 +943,8 @@
           href="AssociationRelationship_id-74818ffee6db4ed3a8f9fbf2a9a67d92.xml#id-74818ffee6db4ed3a8f9fbf2a9a67d92"/>
     </sourceConnections>
     <bounds
-        x="1381"
-        y="840"
+        x="576"
+        y="-72"
         width="120"
         height="55"/>
     <archimateElement
@@ -955,8 +964,8 @@
           href="AssociationRelationship_id-308a9fd53fa343e1971dcf39d7d6eea3.xml#id-308a9fd53fa343e1971dcf39d7d6eea3"/>
     </sourceConnections>
     <bounds
-        x="1236"
-        y="840"
+        x="431"
+        y="-72"
         width="120"
         height="55"/>
     <archimateElement
