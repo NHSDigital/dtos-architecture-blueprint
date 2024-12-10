@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Closed Episodes"
+    id="id-dd00df05265d4642a6e1a21d733fd2c4">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b000c85b024946c2aff99637db9a88b7.xml#id-b000c85b024946c2aff99637db9a88b7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a70a261a962c404fa39a207cdf2a2631.xml#id-a70a261a962c404fa39a207cdf2a2631"/>
+</archimate:FlowRelationship>

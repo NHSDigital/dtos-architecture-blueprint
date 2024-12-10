@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VHR"
+    id="id-feebe54ac6cf4f3ca8d7cba5e511f763">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b000c85b024946c2aff99637db9a88b7.xml#id-b000c85b024946c2aff99637db9a88b7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-915af2f59fdf4099bc0e5c889320f473.xml#id-915af2f59fdf4099bc0e5c889320f473"/>
+</archimate:FlowRelationship>

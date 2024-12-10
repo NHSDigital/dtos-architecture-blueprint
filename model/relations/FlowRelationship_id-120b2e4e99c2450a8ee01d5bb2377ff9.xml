@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participants &amp; Episode"
+    id="id-120b2e4e99c2450a8ee01d5bb2377ff9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a70a261a962c404fa39a207cdf2a2631.xml#id-a70a261a962c404fa39a207cdf2a2631"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c5ddd86b54064905a0d8f5e6ed36434c.xml#id-c5ddd86b54064905a0d8f5e6ed36434c"/>
+</archimate:FlowRelationship>

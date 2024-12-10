@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Participant distribution to BS Select"
+    id="id-ffdd594d43824543bae2f8cc75fff123">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cc7284edc50145169c7819a244dab993.xml#id-cc7284edc50145169c7819a244dab993"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b000c85b024946c2aff99637db9a88b7.xml#id-b000c85b024946c2aff99637db9a88b7"/>
+</archimate:FlowRelationship>

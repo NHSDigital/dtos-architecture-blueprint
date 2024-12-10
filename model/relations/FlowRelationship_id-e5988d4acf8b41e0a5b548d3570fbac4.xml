@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appointment Communication"
+    id="id-e5988d4acf8b41e0a5b548d3570fbac4">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f9fb5d5328af45c5be386b7ff5ac0f8e.xml#id-f9fb5d5328af45c5be386b7ff5ac0f8e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-851e7913e50e49d4a2fba0cf7d916336.xml#id-851e7913e50e49d4a2fba0cf7d916336"/>
+</archimate:FlowRelationship>
