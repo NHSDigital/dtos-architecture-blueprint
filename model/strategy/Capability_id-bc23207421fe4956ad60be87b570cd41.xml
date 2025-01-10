@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C8.4 Share image"
+    id="id-bc23207421fe4956ad60be87b570cd41"
+    documentation="Share image with PACS or VNA, e.g. via local or national image sharing network"/>
