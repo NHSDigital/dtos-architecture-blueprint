@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C10. Determine diagnosis"
+    name="C10. Interpret samples"
     id="id-bf1cd58f246d4e7ab1a4a6a564e1ba57"
-    documentation="The ability to determine a diagnosis on the basis of the findings from the clinical investigations. This diagnosis will confirm whether the condition being screened for has been detected, or not.">
+    documentation="The ability to examine a sample to ascertain a clinical observation/finding. eg A Radiologist looking at a Mammogram image to spot abnormalities or a  Multi Disciplinary team to examine a set of abnormal clinical observation/findings to interpret and diagnose a disorder">
   <properties
       key="Input"
       value="One or more findings"/>

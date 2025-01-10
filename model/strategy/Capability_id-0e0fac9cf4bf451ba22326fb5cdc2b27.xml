@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C10.2 Record diagnosis"
+    name="C10.2 Review findings"
     id="id-0e0fac9cf4bf451ba22326fb5cdc2b27"
-    documentation=" Based on findings, record a diagnosis against the participant's record"/>
+    documentation=" Able to review all findings and history for a participant so as to make the right next decision"/>
