@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self Referral"
+    id="id-8f5ecc2075ee47a0a4f0441c864d0cad">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2d499d85a4474f6aa1b6efa0e433927a.xml#id-2d499d85a4474f6aa1b6efa0e433927a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-53a89e9de2a04ae59887a6a14ece9b1b.xml#id-53a89e9de2a04ae59887a6a14ece9b1b"/>
+</archimate:FlowRelationship>
