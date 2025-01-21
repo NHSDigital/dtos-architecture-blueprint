@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Layer"
+    id="id-90184ef560ea4d24a01f3e043d764094"
+    documentation="Integration layer used for managing bi-directional data flow between legacy and NSP"/>
