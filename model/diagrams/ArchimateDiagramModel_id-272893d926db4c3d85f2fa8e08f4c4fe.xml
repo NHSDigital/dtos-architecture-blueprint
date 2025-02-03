@@ -1191,7 +1191,7 @@
         <bounds
             x="24"
             y="102"
-            width="120"
+            width="145"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -1220,7 +1220,7 @@
             x="24"
             y="210"
             width="120"
-            height="55"/>
+            height="79"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-d9c0f5ce337d4e5db4bb1c2c32e91fd0.xml#id-d9c0f5ce337d4e5db4bb1c2c32e91fd0"/>
