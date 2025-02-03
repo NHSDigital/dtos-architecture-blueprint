@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening Data Products"
+    id="id-db8f13e70e644517827984622a991d58">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f9fb5d5328af45c5be386b7ff5ac0f8e.xml#id-f9fb5d5328af45c5be386b7ff5ac0f8e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2c9a1d4d5eda4af9bf2bdf857d4d6a93.xml#id-2c9a1d4d5eda4af9bf2bdf857d4d6a93"/>
+</archimate:FlowRelationship>
