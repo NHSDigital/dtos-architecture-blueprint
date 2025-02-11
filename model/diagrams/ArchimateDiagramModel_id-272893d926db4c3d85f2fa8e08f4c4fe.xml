@@ -1478,17 +1478,6 @@
           xsi:type="archimate:Capability"
           href="Capability_id-bf1cd58f246d4e7ab1a4a6a564e1ba57.xml#id-bf1cd58f246d4e7ab1a4a6a564e1ba57"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-b597320137e04ecf93a9a523befe9003"
-        textAlignment="1"
-        content="CH and GD wish to align this with SEM Framework&#xD;&#xA;e.g.&#xD;&#xA;Level 1: Prepare Participant (existing C7 is fine)&#xD;&#xA;Level 1: Acquire Sample (existing renamed c8.1)&#xD;&#xA;Level 1: Prepare Sample (retain existing Level 2 C8.2 &amp; C8.3 and add any others e.g. sending image to PACS) &#xD;&#xA;Level 1: Intrepret Sample (c9 and c10 become Level 2?)&#xD;&#xA;&#xD;&#xA;Also, SEM Framework itself needs changes  (CH and MW to do) e.g.:&#xD;&#xA;Change to follow Verb + Noun naming convention (TBC)&#xD;&#xA;Prepare Participant needs adding (prior to Acquire Sample)&#xD;&#xA;MDT becomes part of Interpret Sample&#xD;&#xA;Outcome Manage goes outside of SEM framework &#xD;&#xA;&#xD;&#xA;Above to be actioned">
-      <bounds
-          x="300"
-          y="324"
-          width="265"
-          height="277"/>
-    </children>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-351a26f7c59a4c1ab08991df4e0adb5a.xml#id-351a26f7c59a4c1ab08991df4e0adb5a"/>
@@ -2615,5 +2604,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-90184ef560ea4d24a01f3e043d764094.xml#id-90184ef560ea4d24a01f3e043d764094"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b597320137e04ecf93a9a523befe9003"
+      textAlignment="1"
+      content="CH and GD wish to align this with SEM Framework&#xD;&#xA;e.g.&#xD;&#xA;Level 1: Prepare Participant (existing C7 is fine)&#xD;&#xA;Level 1: Acquire Sample (existing renamed c8.1)&#xD;&#xA;Level 1: Prepare Sample (retain existing Level 2 C8.2 &amp; C8.3 and add any others e.g. sending image to PACS) &#xD;&#xA;Level 1: Intrepret Sample (c9 and c10 become Level 2?)&#xD;&#xA;&#xD;&#xA;Also, SEM Framework itself needs changes  (CH and MW to do) e.g.:&#xD;&#xA;Change to follow Verb + Noun naming convention (TBC)&#xD;&#xA;Prepare Participant needs adding (prior to Acquire Sample)&#xD;&#xA;MDT becomes part of Interpret Sample&#xD;&#xA;Outcome Manage goes outside of SEM framework &#xD;&#xA;&#xD;&#xA;Above to be actioned">
+    <bounds
+        x="1668"
+        y="516"
+        width="265"
+        height="277"/>
   </children>
 </archimate:ArchimateDiagramModel>
