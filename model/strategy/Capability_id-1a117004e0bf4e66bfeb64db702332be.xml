@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C10.1 Review findings"
+    name="C10.1 Analyse sample"
     id="id-1a117004e0bf4e66bfeb64db702332be"
-    documentation=" Able to review all findings and history for a participant so as to make the right next decision"/>
+    documentation=" Able to analyse sample to create a clinical finding"/>
