@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NBSS to Capabilities Mapping"
+    name="Legacy Breast Products to Capabilities Mapping"
     id="id-2ec94dacdcf34b19b707ff5198c2618d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -778,5 +778,61 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-2508bd4f2e084dde857c37ddda7d3473.xml#id-2508bd4f2e084dde857c37ddda7d3473"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-227d788a3ca54262b7cb5a8fec185b90">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0c3734e4d40248f08fe8a8646aca5713"
+        source="id-227d788a3ca54262b7cb5a8fec185b90"
+        target="id-14786cdf90b944318a0841bc6075ab3c">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-4af9c18605d64bb1bb568991ecf603c9.xml#id-4af9c18605d64bb1bb568991ecf603c9"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c0c359e266d444d481eef7df89ad4852"
+        source="id-227d788a3ca54262b7cb5a8fec185b90"
+        target="id-e0c029d461424680ba752ca9dc4ad333">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-19a0658811854c28b787bcc9566f4d6b.xml#id-19a0658811854c28b787bcc9566f4d6b"/>
+    </sourceConnections>
+    <bounds
+        x="780"
+        y="204"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-db593b1e187544758860c24a37dc9b34.xml#id-db593b1e187544758860c24a37dc9b34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-14786cdf90b944318a0841bc6075ab3c"
+      targetConnections="id-0c3734e4d40248f08fe8a8646aca5713">
+    <bounds
+        x="924"
+        y="375"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-a849a26959c34695b125b2d27e493bad.xml#id-a849a26959c34695b125b2d27e493bad"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e0c029d461424680ba752ca9dc4ad333"
+      targetConnections="id-c0c359e266d444d481eef7df89ad4852">
+    <bounds
+        x="924"
+        y="451"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-3c297c6267844213a8aeed24f6f5cfb6.xml#id-3c297c6267844213a8aeed24f6f5cfb6"/>
   </children>
 </archimate:ArchimateDiagramModel>
